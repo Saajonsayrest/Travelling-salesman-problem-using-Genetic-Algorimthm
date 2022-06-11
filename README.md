@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 
 # Travelling salesman problem using Genetic Algorimthm
 The Travelling Salesman Problem (TSP) is the challenge of finding the shortest yet most efficient route for a person to take given a list of specific destinations.
